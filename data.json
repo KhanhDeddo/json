@@ -1,0 +1,10 @@
+{
+    "food":[
+        {
+            "id":"1"
+            "name":"Burger",
+            "price":"50",
+            "quanity":"10"
+        }
+    ]
+}
